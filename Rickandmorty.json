@@ -2,7 +2,8 @@
     "manifest": {
         "author": "[AbRaCaDaBrA]#6304",
         "name": "Rickandmorty",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/abracadabra32\/rickmorty\/main\/Rickandmorty.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/842530444749963285\/895428016916803584\/56b5901b64c829fb4734e7df4de89f6a.jpg",
