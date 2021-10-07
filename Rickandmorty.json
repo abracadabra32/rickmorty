@@ -1,0 +1,51 @@
+{
+    "manifest": {
+        "author": "[AbRaCaDaBrA]#6304",
+        "name": "Rickandmorty",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/842530444749963285\/895428016916803584\/56b5901b64c829fb4734e7df4de89f6a.jpg",
+        "overlay_alpha": 200
+    },
+    "fonts": {},
+    "simple_colors": {
+        "statusbar": 0,
+        "accent": -16711712,
+        "input_background": -16777216,
+        "mention_highlight": 1525045993,
+        "background": -16777216
+    },
+    "colors": {
+        "link": -17966,
+        "primary_700": 0,
+        "primary_dark_100": -17966,
+        "primary_200": -1644826,
+        "primary_dark_300": -4264755,
+        "primary_dark_400": -4264755,
+        "primary_dark_630": -16777216,
+        "primary_dark_660": 0,
+        "primary_dark_700": -16777216,
+        "primary_800": -16777216,
+        "uikit_btn_bg_color_selector_brand": -4264755,
+        "uikit_btn_bg_color_selector_red": -12451875,
+        "uikit_settings_item_text_color_dark": -4264755,
+        "uikit_btn_compound_color_selector_dark": -12451875,
+        "brand_new_560": -16777216
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -12451875,
+        "drawable_button_red": -12451875,
+        "drawable_overlay_channels_active_dark": -16314354,
+        "drawable_voice_indicator_speaking": -14303143,
+        "drawable_voice_sensitivity_progress": -12451875,
+        "drawable_voice_user_background_speaking": 2474073,
+        "ic_channel_announcements": -4264755,
+        "ic_channel_text_nsfw": -4264755,
+        "ic_channel_text": -4264755,
+        "ic_channel_text_locked": -4264755,
+        "ic_sidebar_notifications_off_dark_24dp": -16777216,
+        "ic_sidebar_notifications_on_dark_24dp": -4264755,
+        "ic_sidebar_pins_off_dark_24dp": -4264755
+    }
+}
